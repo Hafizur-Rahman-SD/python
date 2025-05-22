@@ -1,17 +1,9 @@
  here write somthing in line 1
-
-  here write somthing in line 2
-
+ here write somthing in line 2
  here write somthing in line 3
-
  here write somthing in line 4
-
  here write somthing in line 5
-
  here write somthing in line 6
-
-
  here write somthing in line 7
-
  here write somthing in line 8
 
