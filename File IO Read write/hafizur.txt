@@ -1,5 +1,5 @@
 Name: Hafizur Rahman
-Occupation: Aspiring Python Developer
+Occupation: Aspiring Python Developer.
 Interests: Coding, learning new technologies, solving problems.
 
 About:
@@ -7,3 +7,4 @@ A dedicated individual with a passion for mastering Python and exploring the wor
 Loves building tools and programs that automate tasks and improve efficiency.
 
 Keep going — you're doing great!
+Thank you.
