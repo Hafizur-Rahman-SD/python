@@ -1,4 +1,5 @@
 
+
 #write a program for write  in a file 
 str= "hey Hafizur you r a good boy"   #file containt 
 
