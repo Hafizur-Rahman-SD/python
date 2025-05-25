@@ -43,7 +43,7 @@ print(name.count("a"))                         # Counts the number of occurrence
 
 
 
-a = 'Hafizur is a good boy\nbut not a bad \'boy\'' #how to use single and double quotes in a string. \n= new line
+a = 'Hafizur is a good boy\nbut not a bad \'boy\''   #how to use single and double quotes in a string. \n= new line
 
 
 print(a)
