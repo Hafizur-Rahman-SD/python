@@ -1,9 +1,9 @@
 """
-
 a= "hafizur"
 
 # print(len(a))
-print ((a.upper))"""
+print ((a.upper))
+"""
 
 
 
