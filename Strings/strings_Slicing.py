@@ -1,3 +1,5 @@
+
+
 # word = "amazing"
 # word [1: 6: 2] # it will print the string from index 1 to index 6 with a step of 2
 

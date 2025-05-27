@@ -1,4 +1,6 @@
 
+
+
 # #from 1 file theyer multiple line in a file i want to read a particula line from my file and shows the data. 
 
 f=open("readfile.txt") #file open for read data 
