@@ -1,5 +1,4 @@
 
-
 # some type of variables in python
 
 a = 7 #This is an integer variable
