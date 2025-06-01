@@ -6,7 +6,6 @@ a= int (input("Enter your age number: "))
 if (a>18):   # If statenment 
 	print ("You are eligible to vote")
 	print ("Its Good for your Country")
-	
     
 
 elif(a==0):
