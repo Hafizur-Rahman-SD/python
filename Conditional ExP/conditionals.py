@@ -1,4 +1,3 @@
- 
 
 #how to take input from user.int must use beacuse without it it will take string input.
 a= int (input("Enter your age number: "))
